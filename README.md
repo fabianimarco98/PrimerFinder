@@ -38,5 +38,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ### Authors
 - Marco Fabiani
-
-This description should give potential users and contributors a clear understanding of what your tool does, how to use it, and the terms under which it can be used and modified.
