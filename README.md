@@ -1,4 +1,3 @@
-### Repository Title
 **PrimerFinder - A Tool for Designing Primers Based on DNA Sequences**
 
 ### Description
